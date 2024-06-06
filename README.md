@@ -53,10 +53,9 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SrCidm&theme=dark&hide_border=false" /> 
 </td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SrCidm&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+<td width="100%" align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srcidm&hide=TeX,PowerShell&langs_count=8&hide_progress=true&theme=dark)](https://github.com/srcidm/github-readme-stats)
   </td>
 </tr>
 </table>
