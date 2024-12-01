@@ -30,15 +30,18 @@
   </div>
 <p align="center">
 <a href="https://www.instagram.com/cidsergiom/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="Sergio Cid | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.x.com/srcidm" target="_blank">
+  <img align="center" alt="Sergio Cid | Twitter" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/srcidm" target="_blank">
+  <img align="center" alt="Sergio Cid | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:sergio.g.cid.m@gmail.com" >
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Sergio Cid | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
-</p>
 <p align="center">
 <img alignItem="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
 </p>
