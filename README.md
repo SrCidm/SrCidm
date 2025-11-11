@@ -1,4 +1,4 @@
-<h1  align="center"> Hi there, I'm Sergio <span> <img  src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" style="background-color: transparent;" width=50px /></span> </h1>
+<h1  align="center"> Hello, I'm Sergio <span> <img  src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" style="background-color: transparent;" width=50px /></span> </h1>
 <p align="center">
   <a target="_blank" href="https://github.com/SrCidm?tab=repositories">
   <img  src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=200px  ></a>
