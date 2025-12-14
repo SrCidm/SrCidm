@@ -198,7 +198,7 @@ const sergio = {
 
 ---
 
-### ⚡ Fun Zone
+### ⚡
 
 <div align="center">
   <table>
