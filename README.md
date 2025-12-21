@@ -189,9 +189,8 @@ const sergio = {
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=722F37&bgColor=0a0a0a" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&borderColor=722F37&bgColor=0a0a0a" alt="Random Dev Quote"/>
 </div>
-
 <br>
 
 ---
