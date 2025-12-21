@@ -186,10 +186,6 @@ const sergio = {
 
 ### 🎮 Coding Life
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0a0a0a&borderColor=722F37&qColor=ffffff&aColor=722F37" alt="Dev Joke"/>
-</div>
-
 <br>
 
 <div align="center">
